@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Bangka Studios",
+    "description": "",
+    "home_page_url": "https://github.com/BellaTheKatMeow/BangkaStudios",
+    "feed_url": "https://github.com/BellaTheKatMeow/BangkaStudios/feed.json",
+    "user_comment": "",
+    "icon": "https://github.com/BellaTheKatMeow/BangkaStudios/media/website/titleNew.png",
+    "author": {
+        "name": "Jan Carl Leocario"
+    },
+    "items": [
+        {
+            "id": "https://github.com/BellaTheKatMeow/BangkaStudios/page.html",
+            "url": "https://github.com/BellaTheKatMeow/BangkaStudios/page.html",
+            "title": "What Engine Do We Used?",
+            "summary": "We mostly used different variety of game engines which are mostly specific&hellip;",
+            "content_html": "<p> </p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://github.com/BellaTheKatMeow/BangkaStudios/media/posts/1/GG-2.png\" alt=\"ggIcon\" width=\"1080\" height=\"1080\" sizes=\"(min-width: 760px) 660px, calc(93.18vw - 30px)\" srcset=\"https://github.com/BellaTheKatMeow/BangkaStudios/media/posts/1/responsive/GG-2-xs.png 320w ,https://github.com/BellaTheKatMeow/BangkaStudios/media/posts/1/responsive/GG-2-sm.png 480w ,https://github.com/BellaTheKatMeow/BangkaStudios/media/posts/1/responsive/GG-2-md.png 768w ,https://github.com/BellaTheKatMeow/BangkaStudios/media/posts/1/responsive/GG-2-xl.png 1024w\"></figure>\n<h2>About The Game engines!</h2>\n<p> </p>\n<p>We mostly used different variety of game engines which are mostly specific to <em>genre or features </em>that we are trying to do!</p>\n<hr>\n<p>Games Engines are divided in :</p>\n<table style=\"border-collapse: collapse; width: 100%; height: 235.719px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 187.156px;\">\n<td style=\"width: 100%; height: 187.156px;\">\n<p><strong><em>Specialized Game Engines :</em></strong> This are engines that are specific to the genre that we are making.</p>\n<p>We mostly choose this path if the specific game lines up with the specific genre <em>and the mechanics assumption it does</em> out of the get go.</p>\n</td>\n</tr>\n<tr style=\"height: 48.5625px;\">\n<td style=\"width: 100%; height: 48.5625px;\"><strong><em>General Game Engines :</em></strong> The 'we can do it all engine' , we mostly used this engine if the <em>genre is mixed and the mechanics are a more complicated one</em>  </td>\n</tr>\n</tbody>\n</table>\n<hr>\n<p><strong>What is the engines we used exactly?</strong></p>\n<p><em>Specialize Game Engines : </em></p>\n<table style=\"border-collapse: collapse; width: 99.1453%; height: 208px;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 100%;\">\n<p><strong><em>Tiny Games :</em></strong><em>  Game engines we considered for more 'tiny or short game time run'</em></p>\n<ol>\n<li>Whimtale/Bitsy</li>\n<li>Wareware/LilBity</li>\n<li>Puzzlescript</li>\n<li>Pocket Platformer</li>\n<li>Beat 'em Up Maker</li>\n<li>MPAGD</li>\n<li>After Hours</li>\n</ol>\n</td>\n</tr>\n</tbody>\n</table>\n<table style=\"border-collapse: collapse; width: 100%; height: 506.469px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 506.469px;\">\n<td style=\"width: 99.8575%; height: 506.469px;\">\n<p><em><strong>Main Specialized Games :  </strong>Engines we considered a bit more things can be done and have a ton of content</em></p>\n<ol style=\"list-style-type: lower-greek;\">\n<li>First Person Shooter<br>\n<ol style=\"list-style-type: lower-greek;\">\n<li>Easy FPS CE Editor</li>\n<li>FPS Creator Black Ice Mod Advanced</li>\n<li>Gameguru Max (Future if stable enough)</li>\n</ol>\n</li>\n<li>Rpg \n<ol style=\"list-style-type: lower-greek;\">\n<li>Ohrrpgce</li>\n<li>Rpg in a box</li>\n<li>Eldiron</li>\n<li>Bakin </li>\n</ol>\n</li>\n<li>Schmups\n<ol style=\"list-style-type: lower-greek;\">\n<li>Shooting game builder</li>\n</ol>\n</li>\n<li>Visual Novel\n<ol style=\"list-style-type: lower-greek;\">\n<li>Flourish VNE</li>\n<li>Route VN Creator</li>\n</ol>\n</li>\n<li>GBA\n<ol style=\"list-style-type: lower-greek;\">\n<li>Shimmer Engine</li>\n</ol>\n</li>\n<li>Horror\n<ol style=\"list-style-type: lower-greek;\">\n<li>Fnaf Studio</li>\n</ol>\n</li>\n</ol>\n</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p>General Game Engines :</p>\n<p> </p>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 99.8575%;\">\n<ol style=\"list-style-type: upper-roman;\">\n<li><em>CT.JS</em></li>\n<li><em>Coppercube</em></li>\n<li>Godot Engine</li>\n</ol>\n<p> </p>\n</td>\n</tr>\n</tbody>\n</table>",
+            "author": {
+                "name": "Jan Carl Leocario"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-17T21:26:09+08:00",
+            "date_modified": "2026-10-19T18:31:20+08:00"
+        }
+    ]
+}
