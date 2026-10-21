@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Bangka Studios</title>
-    <link href="https://[BellaTheKatMeow.github.io/BangkaStudios](https://BellaTheKatMeow.github.io/BangkaStudios)/feed.xml" rel="self" />
-    <link href="https://[BellaTheKatMeow.github.io/BangkaStudios](https://BellaTheKatMeow.github.io/BangkaStudios)" />
+    <link href="https://BellaTheKatMeow.github.io/BangkaStudios/feed.xml" rel="self" />
+    <link href="https://BellaTheKatMeow.github.io/BangkaStudios" />
     <updated>2026-10-19T18:31:20+08:00</updated>
     <author>
         <name>Jan Carl Leocario</name>
     </author>
-    <id>https://[BellaTheKatMeow.github.io/BangkaStudios](https://BellaTheKatMeow.github.io/BangkaStudios)</id>
+    <id>https://BellaTheKatMeow.github.io/BangkaStudios</id>
 
     <entry>
         <title>What Engine Do We Used?</title>
         <author>
             <name>Jan Carl Leocario</name>
         </author>
-        <link href="https://[BellaTheKatMeow.github.io/BangkaStudios](https://BellaTheKatMeow.github.io/BangkaStudios)/page.html"/>
-        <id>https://[BellaTheKatMeow.github.io/BangkaStudios](https://BellaTheKatMeow.github.io/BangkaStudios)/page.html</id>
+        <link href="https://BellaTheKatMeow.github.io/BangkaStudios/page.html"/>
+        <id>https://BellaTheKatMeow.github.io/BangkaStudios/page.html</id>
 
         <updated>2026-10-17T21:26:09+08:00</updated>
             <summary type="html">
@@ -27,7 +27,7 @@
             <![CDATA[
                 <p> </p>
 <p> </p>
-<figure class="post__image"><img loading="lazy"  src="https://[BellaTheKatMeow.github.io/BangkaStudios](https:/BellaTheKatMeow.github.io/BangkaStudios)/media/posts/1/GG-2.png" alt="ggIcon" width="1080" height="1080" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://[BellaTheKatMeow.github.io/BangkaStudios](https:/BellaTheKatMeow.github.io/BangkaStudios)/media/posts/1/responsive/GG-2-xs.png 320w ,https://[BellaTheKatMeow.github.io/BangkaStudios](https:/BellaTheKatMeow.github.io/BangkaStudios)/media/posts/1/responsive/GG-2-sm.png 480w ,https://[BellaTheKatMeow.github.io/BangkaStudios](https:/BellaTheKatMeow.github.io/BangkaStudios)/media/posts/1/responsive/GG-2-md.png 768w ,https://[BellaTheKatMeow.github.io/BangkaStudios](https:/BellaTheKatMeow.github.io/BangkaStudios)/media/posts/1/responsive/GG-2-xl.png 1024w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://BellaTheKatMeow.github.io/BangkaStudios/media/posts/1/GG-2.png" alt="ggIcon" width="1080" height="1080" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://BellaTheKatMeow.github.io/BangkaStudios/media/posts/1/responsive/GG-2-xs.png 320w ,https://BellaTheKatMeow.github.io/BangkaStudios/media/posts/1/responsive/GG-2-sm.png 480w ,https://BellaTheKatMeow.github.io/BangkaStudios/media/posts/1/responsive/GG-2-md.png 768w ,https://BellaTheKatMeow.github.io/BangkaStudios/media/posts/1/responsive/GG-2-xl.png 1024w"></figure>
 <h2>About The Game engines!</h2>
 <p> </p>
 <p>We mostly used different variety of game engines which are mostly specific to <em>genre or features </em>that we are trying to do!</p>
